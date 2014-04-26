@@ -108,15 +108,15 @@ a {
 		background-color:#fff;
 }
 #four .four-inner p {
-		color:#746a79;
-		font-family: 'Open Sans', sans-serif;
-		text-align:center;
-		margin: 0;
-		padding-top: 47px;
-		font-size: 14px;
-	    font-weight: 400;
-	    line-height: 25px;
-	  	padding-bottom: 58px;
+		color: #746a79;
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        margin: 0;
+        padding-top: 34px;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 31px;
+        padding-bottom: 39px;
 }
 #four .four-inner-feedback {
 		width:1000px;
@@ -125,6 +125,7 @@ a {
 #four .four-inner-feedback .feedback {
 		float:left;
 		margin: 29px 15px;
+        width: 218px;
 }
 #four .four-inner-feedback .feedback p {
 		font-family: 'Open Sans', sans-serif;
@@ -258,5 +259,5 @@ color:#424242;
 		color:#2e2439;
 		text-align:center;
 		clear: both;
-		padding-top: 50px;					
+/*		padding-top: 50px;					*/
 }
